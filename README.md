@@ -3,14 +3,10 @@
 
 Description
 ------------
-Thiers three files each file represent app code fore (Server, Android, IOS).
+Thiers three files each file represent app code fore (Server) it index.js.
 Server App: present two endpoints one for post images and the second is to get all uploaded images.
-Android and Ios App: present front to upload image using upload endpoint and present images in table.
-
-Contents
-------------------
-
 
 Instaliation 
 ------------
-
+Need to Install Node.js and npm for your machine and run the node server from docker image or the index.js file 
+the server run on port (8088).
